@@ -48,7 +48,7 @@ section#login {
 section#login > div#imagem {
     background: var(--azul) url(../Imagens/pexels-dinnow-9444476.jpg);
     background-size: cover;
-    height: 200px;
+    height: 30%;
 }
 section#login > div#formulario{
     display: block;
